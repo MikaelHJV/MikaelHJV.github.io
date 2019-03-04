@@ -1,0 +1,46 @@
+body {
+background-image: url("https://t6.rbxcdn.com/8be44399c511cbaf807e8dd6bb344f9e");
+font-family: monospace;
+color: red;
+
+}
+h1 {
+  font-family: serif;
+}
+img {
+  border:2px solid cornflowerblue;
+}
+
+em#markupem{
+  background-color: lime;
+}
+
+em:hover {
+  font-size: 1em;
+  margin: 1em;
+  color: white;
+}
+
+.asdf {
+  background-color: blue;
+  color: white;
+  font-family: monospace;
+}
+.qwer {
+  background-color: violet;
+  margin: 2em;
+  color: white;
+  border: 5px solid lightgray;
+  text-align: center;
+}
+
+
+#picture:hover {
+  zoom:1.1;
+  transition: width 1s;
+  border-radius: 20px;
+}
+
+#picdiv {
+  text-align: center;
+}
